@@ -1,0 +1,9 @@
+---
+title: P2P Network designing
+subtitle: Network Design
+modal-id: 7
+thumbnail: network.png
+alt: image-alt
+categories: [System Design]
+description: We implemented a Gnutella P2P network for file querying and file sharing. Further, we developed on efficient query handling, as well as trying to eliminate redundant query flooding.
+---

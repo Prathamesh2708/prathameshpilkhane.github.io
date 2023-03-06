@@ -1,0 +1,9 @@
+---
+title: Floating Moodle
+subtitle: Software Development
+modal-id: 2
+thumbnail: book.png
+alt: image-alt
+categories: [System Design]
+description: I developed an education platform using ReactJS and NodeJS, along with the PostgreSQL database system. The platform supported functionality such as assignments, courses and video lectures.Further, the platform maintained user sessions using cookies.
+---

@@ -1,0 +1,9 @@
+---
+title: ML intern
+subtitle: Mizuho Bank
+modal-id: 9
+thumbnail: mizuho.png
+alt: image-alt
+categories: [Work Experience]
+description: I developed of Proof of concept for the extraction of user details from recorded phone calls. I further made use of NLP libraries like SpaCy as well as the Speech Recognition library.
+---

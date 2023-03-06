@@ -1,0 +1,10 @@
+---
+title: Speech Emotion Recognition
+subtitle: Automatic Speech Recognition
+modal-id: 3
+thumbnail: ser.jpeg
+alt: image-alt
+categories: [Machine Learning]
+description: We developed a speech emotion recognition Webapp, which helped identify emotions in an audio, making use of GloVe word embeddings, MFCC and Mel spectrogram values of the input audio. This was one of the early  Machine Learning projects done by me.
+
+---

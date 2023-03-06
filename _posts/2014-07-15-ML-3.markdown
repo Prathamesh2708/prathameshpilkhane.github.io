@@ -1,0 +1,10 @@
+---
+title: SuperPixels
+subtitle: Image Preprocessing
+modal-id: 4
+thumbnail: bunny10.png
+alt: image-alt
+categories: [Machine Learning]
+description: What happens when you have thousands of pixels and want to train models over images? We cluster the nearby pixels into one! This is a preprocessing technique used to help reduce the input dimension without losing any useful information of an image.
+
+---

@@ -1,0 +1,9 @@
+---
+title: Software Intern
+subtitle: FinIQ
+modal-id: 10
+thumbnail: finiq.jpeg
+alt: image-alt
+categories: [Work Experience]
+description: I developed on the task of developing a parser as well as a compiler for the custom user-friendly language, FinSPL, making it Turing Complete. 
+---

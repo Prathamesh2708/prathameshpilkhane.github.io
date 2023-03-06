@@ -1,0 +1,9 @@
+---
+title: Research Intern
+subtitle: Technical University of Braunschweig
+modal-id: 8
+thumbnail: technische.png
+alt: image-alt
+categories: [Work Experience]
+description: I worked on a wide variety of problems including Voronoi games and their variations, Computational Geometry problems such as packing and covering of geometrical shapes, and the Art Gallery Problem variants.
+---

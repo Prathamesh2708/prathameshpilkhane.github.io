@@ -1,0 +1,10 @@
+---
+title: Stock Market Prediction
+subtitle: Time Series Forecasting
+modal-id: 6
+thumbnail: stocks.jpeg
+alt: image-alt
+categories: [Machine Learning]
+description: We developed a time series forecasting machine learning model based on LSTMs (Long Short-term Memory units). Further we used input data from the Nifty50 dataset.
+
+---

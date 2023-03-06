@@ -1,0 +1,10 @@
+---
+title: 16-bit RISC processor 
+subtitle: Computer Architecture
+modal-id: 5
+thumbnail: risc.jpeg
+alt: image-alt
+categories: [System Design]
+description: We devised an efficient 22 state Finite State Machine for an 8 register, 16-bit multicycle processor having 4MB of RAM, synthesized and assembled FSM controller, Datapath, and Memory Unit in Quartus Prime using VHDL.
+
+---

@@ -1,0 +1,10 @@
+---
+title: Faster Segmentation S-T cuts
+subtitle: Image Segmentation
+modal-id: 1
+thumbnail: stcut.png
+alt: image-alt
+categories: [Machine Learning]
+description: We implemented an image segmentation method using Boykov Kolmogorov algorithm for S-T cuts which is a faster segmentation algorithm. The project concluded with measuring computation times as well as the IoU (Intersection over Union) metric for accuracy measurments.
+
+---
